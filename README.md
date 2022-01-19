@@ -12,5 +12,5 @@
 
 ##### Seção 7: [TodoApp (Backend)](https://github.com/Roger-Franco/TodoApp-Backend-)
 
-
+##### Seção 8: [TodoApp (Frontend)](https://github.com/Roger-Franco/TodoApp-Frontend)
 
