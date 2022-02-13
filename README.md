@@ -14,3 +14,5 @@
 
 ##### Seção 8: [TodoApp (Frontend)](https://github.com/Roger-Franco/TodoApp-Frontend)
 
+##### Seção 9: [Redux-Simples](https://github.com/Roger-Franco/redux-simples)
+
