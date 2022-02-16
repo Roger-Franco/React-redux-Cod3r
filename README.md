@@ -16,3 +16,4 @@
 
 ##### Seção 9: [Redux-Simples](https://github.com/Roger-Franco/redux-simples)
 
+##### Seção 10: [TodoApp-migração-para-Redux](https://github.com/Roger-Franco/todo-migracao-para-redux)
