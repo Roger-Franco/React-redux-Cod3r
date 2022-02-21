@@ -17,3 +17,7 @@
 ##### Seção 9: [Redux-Simples](https://github.com/Roger-Franco/redux-simples)
 
 ##### Seção 10: [TodoApp-migração-para-Redux](https://github.com/Roger-Franco/todo-migracao-para-redux)
+
+##### Seção 11: [my-money-app-backend](https://github.com/Roger-Franco/my-money-app-backend)
+
+##### Seção 11: [my-money-app-frontend](https://github.com/Roger-Franco/my-money-app-frontend)
